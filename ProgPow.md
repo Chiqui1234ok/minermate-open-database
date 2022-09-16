@@ -14,7 +14,7 @@ Shown hashrate are always **per card**.
 
 ```bat
 @echo off
-REM "Gate.io wallet (santiagogimenez@outlook.com.ar's account)"
+REM "Gate.io wallet"
 cd C:\Mining\t-rex
 :trm
 t-rex -a progpow --coin sero -o stratum1+tcp://andromedapool.net:8008 -u fmDQCa7r5MHTktHS7SkcMznrG82avCfvp3BbqzdByAW798rX4iKz6q2yhywjb46chZjgBcfkg94BStaBS84RHFgW4eeLj9BTRaUpcwK4RMjwvwHNzhAGhopGHCtD4RT347u -w PC-3070 -p minermate22 --pl 68,68,68,68,68,68 --cclock +130,+130,+130,+130,+130,+130 --mclock +1050,+1050,+1050,+1050,+1050,+1050 --fan t:68[30-90],t:68[30-90],t:68[30-90],t:68[30-90],t:68[30-90],t:68[30-90]
