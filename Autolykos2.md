@@ -1,5 +1,15 @@
 Shown hashrate are always **per card**.
 
+# PC_FRANCO3 (RTX 2060 x5)
+## ERGO
+
+- Core 1200MHz
+- Mem +950MHz
+- Lock cv N/D
+- Fan target 64c
+- Watts 82W
+- 63MH/s
+
 # PC-RIGOBERTA (RTX 3070Ti x1)
 ## ERGO
 
